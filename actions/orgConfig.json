@@ -1,0 +1,72 @@
+{
+    "organizations": [
+        {
+            "id": "f3324d93-76e9-4dd6-9473-50a7c7873c8e",
+            "featureFlags": {
+                "8C6043F15F43B6390A49401A@AdobeOrg": ["experiments"]
+            }
+        },
+        {
+            "id": "37f075e0-8faf-48a0-85c2-88c09c1f8ec8",
+            "featureFlags": {
+                "8C6043F15F43B6390A49401A@AdobeOrg": ["experiments"]
+            }
+        },
+        {
+            "id": "f3324d93-d5f7-4dd6-9473-50a7c7873c8e",
+            "name": "BambooHR",
+            "defaultSiteId": "da39921f-9a02-41db-b491-02c98330d956",
+            "sites": [
+                {
+                    "id": "da39921f-9a02-41db-b491-02c98330d956",
+                    "redirectURL": "https://docs.google.com/spreadsheets/d/1k6Vx21-SaQ8bHZdgP9Z672zuLllRbOZ_M1m5L8Fh0PE/edit"
+                }
+            ],
+            "featureFlags": {
+                "908936ED5D35CC220A495CD4@AdobeOrg": ["experiments"],
+                "63C70EF1613FCF530A495EE2@AdobeOrg": ["experiments"]
+            }
+        },
+        {
+            "id": "a42f3e9f-4f57-449c-895f-d04e25f24f9e",
+            "name": "24PetWatch",
+            "defaultSiteId": "02c13382-717b-45ac-b049-58210b9775f3",
+            "sites": [
+                {
+                    "id": "02c13382-717b-45ac-b049-58210b9775f3",
+                    "redirectURL": "https://adobe.sharepoint.com/:x:/r/sites/HelixProjects/Shared%20Documents/sites/24petwatch/redirects.xlsx?d=w529ac1345ce44fc181601ef37a10b7f2&csf=1&web=1&e=c8cBPw"
+                }
+            ]
+        },
+        {
+            "id": "3c84e4a2-3018-4412-8ad5-fd998abacce0",
+            "name": "PetPlace",
+            "defaultSiteId": "c53fcb5b-102e-4de5-ab1f-6f1b913edefe",
+            "sites": [
+                {
+                    "id": "c53fcb5b-102e-4de5-ab1f-6f1b913edefe",
+                    "redirectURL": "https://adobe.sharepoint.com/:x:/r/sites/HelixProjects/Shared%20Documents/sites/petplace/redirects.xlsx?d=w3fb6d18bb3cd467a9dd125f5f6eac5de&csf=1&web=1&e=du1ch5"
+                }
+            ],
+            "featureFlags": {
+                "53E06E76604280A10A495E65@AdobeOrg": ["experiments"],
+                "908936ED5D35CC220A495CD4@AdobeOrg": ["experiments"]
+            }
+        },
+        {
+            "id": "default",
+            "name": "MaidenForm",
+            "defaultSiteId": "97eea6f3-497c-4f9e-86db-7848b6a7db77",
+            "sites": [
+                {
+                    "id": "97eea6f3-497c-4f9e-86db-7848b6a7db77",
+                    "redirectURL": "https://adobe.sharepoint.com/:x:/r/sites/HelixProjects/Shared%20Documents/sites/maidenform/redirects.xlsx?d=w08ef935f62b44f25bb0a99889de48e19&csf=1&web=1&e=kPBY0d"
+                }
+            ],
+            "featureFlags": {
+                "8C6043F15F43B6390A49401A@AdobeOrg": ["anil-demo"],
+                "908936ED5D35CC220A495CD4@AdobeOrg": ["anil-demo"]
+            }
+        }
+    ]
+}

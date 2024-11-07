@@ -1,0 +1,16 @@
+application:
+  actions: actions
+  web: web-src
+  runtimeManifest:
+    packages:
+      aem-success-studio-actions:
+        license: Apache-2.0
+        actions:
+          organizations:
+            function: actions/getOrgConfig/index.js
+            web: 'yes'
+            runtime: nodejs:18
+            inputs:
+              LOG_LEVEL: debug
+            annotations:
+              final: true
